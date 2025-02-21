@@ -13,6 +13,6 @@ The following technologies are utilized in this project:
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/chatbot.git
+git clone https://github.com/Miralam555/chatbot.git
 cd chatbot
 # ChatBot
